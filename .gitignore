@@ -9,3 +9,8 @@ node_modules
 
 # local storage
 storage/
+
+# macOS / python build metadata
+.DS_Store
+*.egg-info/
+.venv/
